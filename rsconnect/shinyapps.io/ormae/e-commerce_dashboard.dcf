@@ -1,0 +1,10 @@
+name: e-commerce_dashboard
+title: E-Commerce Dashboard
+username:
+account: ormae
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 266478
+bundleId: 1202661
+url: https://ormae.shinyapps.io/e-commerce_dashboard/
+when: 1517483821.82065
